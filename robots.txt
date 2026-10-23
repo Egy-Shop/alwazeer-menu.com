@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap: https://egy-shop.github.io/alwazeer-menu.com/sitemap.xml
-
